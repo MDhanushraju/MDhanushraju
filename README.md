@@ -2,7 +2,38 @@
 
 # 👋 Hey, I'm Dhanush
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here" />
+<svg width="650" height="80" viewBox="0 0 650 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="25%" stop-color="#818CF8"/>
+      <stop offset="50%" stop-color="#A78BFA"/>
+      <stop offset="75%" stop-color="#F472B6"/>
+      <stop offset="100%" stop-color="#FB7185"/>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="50%"
+    y="32"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="22"
+    font-weight="bold"
+    fill="url(#gradient)">
+    Welcome to my GitHub
+  </text>
+
+  <text
+    x="50%"
+    y="65"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="18"
+    fill="url(#gradient)">
+    Hope you find something interesting here
+  </text>
+</svg>
 
 <br>
 
