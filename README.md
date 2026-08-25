@@ -1,9 +1,9 @@
  # Hey, I'm Dhanush 👋
  
-🎓 2025 Engineering Graduate
-💻 Developer & Tech Explorer
-📊 Data & Analytics Enthusiast
-🤖 Exploring AI & Cloud
+🎓 2025 Engineering Graduate.
+💻 Developer & Tech Explorer.
+📊 Data & Analytics Enthusiast.
+🤖 Exploring AI & Cloud.
 
 I like building things, working with data, and exploring new technologies.
 ### Tech
