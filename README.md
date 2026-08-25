@@ -3,34 +3,7 @@
 # 👋 Hey, I'm Dhanush
 
 <svg width="650" height="80" viewBox="0 0 650 80" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="25%" stop-color="#818CF8"/>
-      <stop offset="50%" stop-color="#A78BFA"/>
-      <stop offset="75%" stop-color="#F472B6"/>
-      <stop offset="100%" stop-color="#FB7185"/>
-    </linearGradient>
-  </defs>
-
- <h2>
-  <font color="#38BDF8">Welcome</font>
-  <font color="#6366F1">to</font>
-  <font color="#8B5CF6">my</font>
-  <font color="#EC4899">GitHub</font>
-</h2>
-
- <p>
-  <font color="#06B6D4">Hope</font>
-  <font color="#3B82F6">you</font>
-  <font color="#6366F1">find</font>
-  <font color="#8B5CF6">something</font>
-  <font color="#D946EF">interesting</font>
-  <font color="#EC4899">here</font> ✨
-</p>
-
-</svg>
-
+<img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Welcome+to+my+GitHub%22%2C%22color%22%3A%22%23FF9933%22%7D%2C%7B%22text%22%3A%22Hope+you+find+something+interesting+here+%E2%9C%A8%22%2C%22color%22%3A%22%23138808%22%7D%5D&font=Fira%20Code&fontSize=22&typingSpeed=0.08&deleteSpeed=0.04&pause=1800&repeat=true&center=true&vCenter=true&width=650&height=90&cursorStyle=blank&deletionBehavior=backspace" />
 <br>
 
 **Curious mind • Constantly exploring • Always building 🚀**
