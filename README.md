@@ -1,10 +1,11 @@
 <div align="center">
+<div align="center">
 
 # 👋 Hey, I'm Dhanush
 
-### Developer • Builder • Tech Explorer 🚀
+### Just building things & enjoying the process 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+things+I'm+curious+about;Learning+by+doing;Exploring+new+technologies;Turning+ideas+into+projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Curious+about+everything;Making+ideas+come+to+life;Learning+by+doing;Trying%2C+breaking%2C+fixing;Let's+see+where+this+goes+🚀" />
 
 </div>
 
