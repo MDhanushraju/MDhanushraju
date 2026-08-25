@@ -1,125 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
 
-    <title>Dhanush</title>
+# 👋 Hey, I'm Dhanush
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            color: #24292f;
-        }
+### Developer • Builder • Tech Explorer 🚀
 
-        h1 {
-            font-size: 28px;
-            margin: 20px 0;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+things+I'm+curious+about;Learning+by+doing;Exploring+new+technologies;Turning+ideas+into+projects" />
 
-        .welcome {
-            font-size: 28px;
-            font-weight: bold;
-            font-family: monospace;
-            letter-spacing: 2px;
-            margin: 25px 0;
+</div>
 
-            background: linear-gradient(
-                90deg,
-                #00d9ff,
-                #007bff,
-                #7b61ff,
-                #b14eff,
-                #d946ef,
-                #ff4f81
-            );
+🎓 **2025 Engineering Graduate**<br>
+🚀 **Developer • Builder • Tech Explorer**<br>
+🧠 **Curious about AI, Data & Emerging Technology**<br>
+☁️ **Exploring Cloud, Software & New Ideas**
 
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
+I enjoy turning ideas into working projects, solving problems, and learning by building.
 
-        .tagline {
-            font-size: 18px;
-            font-weight: 600;
-            margin: 20px 0;
-        }
-    </style>
-</head>
+### 🛠️ What I Work With
 
-<body>
+`JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
 
-    <h1>👋 Hey, I'm Dhanush</h1>
+### 🚀 Currently
 
-    <div class="welcome" id="welcome"></div>
+**Building → Learning → Experimenting → Breaking → Fixing → Improving**
 
-    <div class="tagline">
-        Just building things & enjoying the process 🚀
-    </div>
+Always curious. Always building.
 
+### 🌐 Connect With Me
 
-    <script>
-
-        const phrases = [
-            "Welcome",
-            "Welcome to",
-            "Welcome to my",
-            "Welcome to my GitHub 🚀"
-        ];
-
-        const welcome = document.getElementById("welcome");
-
-        let phraseIndex = 0;
-        let charIndex = 0;
-        let deleting = false;
-
-        function typeEffect() {
-
-            const currentPhrase = phrases[phraseIndex];
-
-            if (!deleting) {
-
-                welcome.textContent =
-                    currentPhrase.substring(0, charIndex + 1);
-
-                charIndex++;
-
-                if (charIndex === currentPhrase.length) {
-
-                    setTimeout(() => {
-                        deleting = true;
-                        typeEffect();
-                    }, 1000);
-
-                    return;
-                }
-
-            } else {
-
-                welcome.textContent =
-                    currentPhrase.substring(0, charIndex - 1);
-
-                charIndex--;
-
-                if (charIndex === 0) {
-
-                    deleting = false;
-                    phraseIndex++;
-
-                    if (phraseIndex >= phrases.length) {
-                        phraseIndex = 0;
-                    }
-                }
-            }
-
-            setTimeout(typeEffect, deleting ? 50 : 100);
-        }
-
-        typeEffect();
-
-    </script>
-
-</body>
-</html>
+📫 **LinkedIn:** [www.linkedin.com/in/mdhanush03](http://www.linkedin.com/in/mdhanush03)
