@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Dhanush
 
-### Developer • Builder • Tech Explorer 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+things+I'm+curious+about;Learning+by+doing;Exploring+new+technologies;Turning+ideas+into+projects" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+%F0%9F%9A%80;Building+things+I'm+curious+about;Turning+ideas+into+something+real;Learning+%E2%80%A2+Creating+%E2%80%A2+Exploring" />
 
 </div>
 
