@@ -11,37 +11,41 @@
 <br>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="55%" valign="top">
+<tr>
+<td width="55%" valign="top">
 
-## ⚡ QUICK FACTS
+### ⚡ QUICK FACTS
 
-* 💻 I'm a **Software Developer**
-* 🧠 Always learning and exploring new technologies
-* 🛠️ I enjoy building real-world projects
-* 🌱 I love turning ideas into solutions
-* 🎧 Music keeps me focused while I code
-* ☕ I believe in consistency and self-improvement
-* ✍️ Clean code, good UI and problem solving excite me
+<ul>
+<li>💻 I'm a <b>Software Developer</b></li>
+<li>🧠 Always learning and exploring new technologies</li>
+<li>🛠️ I enjoy building real-world projects</li>
+<li>🌱 I love turning ideas into solutions</li>
+<li>🎧 Music keeps me focused while I code</li>
+<li>☕ I believe in consistency and self-improvement</li>
+<li>✍️ Clean code, good UI and problem solving excite me</li>
+</ul>
 
 <br>
 
-## 🌐 CONNECT WITH ME
+### 🌐 CONNECT WITH ME
 
-📧 **Email:** [mdhanushraju345@gmail.com](mailto:mdhanushraju345@gmail.com)  
-💼 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)  
-𝕏 **X (Twitter):** [@Dhanush03_M](https://x.com/Dhanush03_M)
+<p>
+📧 <b>Email:</b> <a href="mailto:mdhanushraju345@gmail.com">mdhanushraju345@gmail.com</a><br>
+💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mdhanush03" target="_blank">mdhanush03</a><br>
+𝕏 <b>X (Twitter):</b> <a href="https://x.com/Dhanush03_M" target="_blank">@Dhanush03_M</a>
+</p>
 
-    </td>
-    <td width="45%" align="center" valign="top">
-      <img src="./assets/dhanush.jpg" width="100%" alt="M Dhanush - Developer Character" />
-    </td>
-  </tr>
+</td>
+<td width="45%" align="center" valign="top">
+<img src="./assets/dhanush.jpg" width="100%" alt="M Dhanush - Developer Character" />
+</td>
+</tr>
 </table>
 
 <br>
 
-## 🛠️ LANGUAGES & TOOLS
+### 🛠️ LANGUAGES & TOOLS
 
 <div align="center">
 
@@ -66,23 +70,26 @@
 <br>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
+<tr>
+<td width="60%" valign="top">
 
-## 🚀 WHAT I'M UP TO
+### 🚀 WHAT I'M UP TO
 
-* 🚀 Building projects that solve real problems.
-* 📚 Exploring new technologies and improving my skills every day.
-* 🧠 Learning through experimentation and real projects.
-* 🤝 Open to interesting ideas and collaborations.
+<ul>
+<li>🚀 Building projects that solve real problems.</li>
+<li>📚 Exploring new technologies and improving my skills every day.</li>
+<li>🧠 Learning through experimentation and real projects.</li>
+<li>🤝 Open to interesting ideas and collaborations.</li>
+</ul>
 
-    </td>
-    <td width="40%" align="center" valign="middle">
+</td>
+<td width="40%" align="center" valign="middle">
 
-> 💬 **"First, solve the problem. Then, write the code."**  
->  
-> ✨ *Thanks for stopping by!*
+<blockquote align="center">
+<p>💬 <b>"First, solve the problem. Then, write the code."</b></p>
+<p>✨ <i>Thanks for stopping by!</i></p>
+</blockquote>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
