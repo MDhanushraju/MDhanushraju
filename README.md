@@ -1,15 +1,22 @@
- # Hey, I'm Dhanush 👋
- 
-🎓 2025 Engineering Graduate.
-💻 Developer & Tech Explorer.
-📊 Data & Analytics Enthusiast.
-🤖 Exploring AI & Cloud.
+# Hey, I'm Dhanush 👋
 
-I like building things, working with data, and exploring new technologies.
-### Tech
-`JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB` 
+🎓 **2025 Engineering Graduate**
+🚀 **Developer • Builder • Tech Explorer**
+🧠 **Curious about AI, Data & Emerging Technology**
+☁️ **Exploring Cloud, Software & New Ideas**
 
-### Currently
-Building • Learning • Breaking • Fixing • Repeating  🔥
+I enjoy turning ideas into working projects, solving problems, and learning by building.
 
-📫 Let's connect → www.linkedin.com/in/mdhanush03
+### 🛠️ What I Work With
+
+`JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
+
+### 🚀 Currently
+
+**Building → Learning → Experimenting → Breaking → Fixing → Improving**
+
+Always curious. Always building.
+
+### 🌐 Connect With Me
+
+📫 **LinkedIn:** [www.linkedin.com/in/mdhanush03](http://www.linkedin.com/in/mdhanush03)
