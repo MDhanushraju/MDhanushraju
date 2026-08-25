@@ -2,12 +2,12 @@
 
 # 👋 Hey, I'm Dhanush
 
-<svg width="650" height="80" viewBox="0 0 650 80" xmlns="http://www.w3.org/2000/svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here" />
 
   <br>
 
-**Curious mind • Constantly exploring • Always building 🚀**
+
 
 </div>
 
