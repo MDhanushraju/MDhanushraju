@@ -9,7 +9,7 @@
 
 
 
-</div>
+
 
 ---
 
@@ -45,7 +45,7 @@ Currently exploring new ideas and working on projects that challenge me to learn
 
 ---
 
-<div align="center">
+
 
 **Thanks for stopping by! ✨**
 
