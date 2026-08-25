@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Dhanush
 
-<span src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome;Welcome+to;Welcome+to+my;Welcome+to+my+GitHub+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome;Welcome+to;Welcome+to+my;Welcome+to+my+GitHub+🚀" />
 
 
 <br>
