@@ -2,29 +2,50 @@
 
 # 👋 Hey, I'm Dhanush
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here" />
 
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here&color=7DD3FC" />
+**Curious mind • Constantly exploring • Always building 🚀**
 
 </div>
 
-🎓 **2025 Engineering Graduate**<br>
-🚀 **Developer • Builder • Tech Explorer**<br>
-🧠 **Curious about AI, Data & Emerging Technology**<br>
-☁️ **Exploring Cloud, Software & New Ideas**
+---
 
-I enjoy turning ideas into working projects, solving problems, and learning by building.
+### 👨‍💻 A Little About Me
 
-### 🛠️ What I Work With
+🎓 2025 Engineering Graduate  
+🚀 I enjoy turning random ideas into real projects  
+🧠 Curious about technology, AI, data, and how things work  
+🌱 Learning by experimenting rather than just following tutorials  
+✨ Always looking for something new to build or explore  
+
+> *I don't have everything figured out — I'm here to learn, build, and see where it takes me.*
+
+---
+
+### 🛠️ Things I Use
 
 `JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
 
-### 🚀 Currently
+---
 
-**Building → Learning → Experimenting → Breaking → Fixing → Improving**
+### 🚀 What I'm Up To
 
-Always curious. Always building.
+**Building → Experimenting → Breaking → Fixing → Learning**
 
-### 🌐 Connect With Me
+Currently exploring new ideas and working on projects that challenge me to learn something different.
 
-📫 **LinkedIn:** [www.linkedin.com/in/mdhanush03](http://www.linkedin.com/in/mdhanush03)
+---
+
+### 🌐 Let's Connect
+
+📫 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)
+
+---
+
+<div align="center">
+
+**Thanks for stopping by! ✨**
+
+</div>
