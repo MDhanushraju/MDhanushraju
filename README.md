@@ -13,26 +13,22 @@
     </linearGradient>
   </defs>
 
-  <text
-    x="50%"
-    y="32"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="22"
-    font-weight="bold"
-    fill="url(#gradient)">
-    Welcome to my GitHub
-  </text>
+ <h2>
+  <font color="#38BDF8">Welcome</font>
+  <font color="#6366F1">to</font>
+  <font color="#8B5CF6">my</font>
+  <font color="#EC4899">GitHub</font>
+</h2>
 
-  <text
-    x="50%"
-    y="65"
-    text-anchor="middle"
-    font-family="monospace"
-    font-size="18"
-    fill="url(#gradient)">
-    Hope you find something interesting here
-  </text>
+ <p>
+  <font color="#06B6D4">Hope</font>
+  <font color="#3B82F6">you</font>
+  <font color="#6366F1">find</font>
+  <font color="#8B5CF6">something</font>
+  <font color="#D946EF">interesting</font>
+  <font color="#EC4899">here</font> ✨
+</p>
+
 </svg>
 
 <br>
