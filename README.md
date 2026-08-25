@@ -77,17 +77,7 @@
 
 <br>
 
-<!-- GitHub Live Stats Cards -->
-### 📊 GITHUB STATS & METRICS
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MDhanushraju&show_icons=true&theme=default&hide_border=false" alt="MDhanushraju GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDhanushraju&layout=compact&theme=default&hide_border=false" alt="Top Languages" height="165" />
-
-</div>
-
-<br><br>
 
 ### 🚀 WHAT I'M UP TO
 
