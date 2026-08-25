@@ -1,8 +1,8 @@
 # Hey, I'm Dhanush 👋
 
-🎓 **2025 Engineering Graduate**
-🚀 **Developer • Builder • Tech Explorer**
-🧠 **Curious about AI, Data & Emerging Technology**
+🎓 **2025 Engineering Graduate**<br>
+🚀 **Developer • Builder • Tech Explorer**<br>
+🧠 **Curious about AI, Data & Emerging Technology**<br>
 ☁️ **Exploring Cloud, Software & New Ideas**
 
 I enjoy turning ideas into working projects, solving problems, and learning by building.
