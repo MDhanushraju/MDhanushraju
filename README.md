@@ -1,15 +1,11 @@
 <div align="center">
 
+
+
 # 👋 Hey, I'm Dhanush
 
-<h2>
-  <span style="color:#00D9FF;">W</span><span style="color:#00C9FF;">e</span><span style="color:#00B8FF;">l</span><span style="color:#00A8FF;">c</span><span style="color:#0098FF;">o</span><span style="color:#0088FF;">m</span><span style="color:#0078FF;">e</span>
-  <span style="color:#7B61FF;"> to </span>
-  <span style="color:#9B59FF;">m</span><span style="color:#B14EFF;">y</span>
-  <span style="color:#D946EF;"> GitHub</span> 🚀
-</h2>
+<p src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome;Welcome+to;Welcome+to+my;Welcome+to+my+GitHub+🚀" />
 
-### Just building things & enjoying the process 🚀
 
 <br>
 
