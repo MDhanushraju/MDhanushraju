@@ -1,42 +1,125 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dhanush</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #24292f;
+        }
+
+        h1 {
+            font-size: 28px;
+            margin: 20px 0;
+        }
+
+        .welcome {
+            font-size: 28px;
+            font-weight: bold;
+            font-family: monospace;
+            letter-spacing: 2px;
+            margin: 25px 0;
+
+            background: linear-gradient(
+                90deg,
+                #00d9ff,
+                #007bff,
+                #7b61ff,
+                #b14eff,
+                #d946ef,
+                #ff4f81
+            );
+
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .tagline {
+            font-size: 18px;
+            font-weight: 600;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>👋 Hey, I'm Dhanush</h1>
+
+    <div class="welcome" id="welcome"></div>
+
+    <div class="tagline">
+        Just building things & enjoying the process 🚀
+    </div>
 
 
+    <script>
 
-# 👋 Hey, I'm Dhanush
+        const phrases = [
+            "Welcome",
+            "Welcome to",
+            "Welcome to my",
+            "Welcome to my GitHub 🚀"
+        ];
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1200&pause=500&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome;Welcome+to;Welcome+to+my;Welcome+to+my+GitHub+🚀" />
+        const welcome = document.getElementById("welcome");
 
+        let phraseIndex = 0;
+        let charIndex = 0;
+        let deleting = false;
 
-<br>
+        function typeEffect() {
 
-🎓 2025 Engineering Graduate  
-🚀 Developer • Builder • Tech Explorer  
-🧠 Curious about AI, Data & Emerging Technology  
-☁️ Exploring Cloud, Software & New Ideas  
+            const currentPhrase = phrases[phraseIndex];
 
-<br>
+            if (!deleting) {
 
-I enjoy turning ideas into working projects, solving problems,<br>
-and learning by building.
+                welcome.textContent =
+                    currentPhrase.substring(0, charIndex + 1);
 
-<br>
+                charIndex++;
 
-## 🛠️ What I Work With
+                if (charIndex === currentPhrase.length) {
 
-`JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
+                    setTimeout(() => {
+                        deleting = true;
+                        typeEffect();
+                    }, 1000);
 
-<br>
+                    return;
+                }
 
-## 🚀 Currently
+            } else {
 
-**Building → Learning → Experimenting → Breaking → Fixing → Improving**
+                welcome.textContent =
+                    currentPhrase.substring(0, charIndex - 1);
 
-*Always curious. Always building.*
+                charIndex--;
 
-<br>
+                if (charIndex === 0) {
 
-## 🌐 Connect With Me
+                    deleting = false;
+                    phraseIndex++;
 
-📫 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)
+                    if (phraseIndex >= phrases.length) {
+                        phraseIndex = 0;
+                    }
+                }
+            }
 
-</div>
+            setTimeout(typeEffect, deleting ? 50 : 100);
+        }
+
+        typeEffect();
+
+    </script>
+
+</body>
+</html>
