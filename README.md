@@ -1,51 +1,73 @@
 <div align="center">
 
-# 👋 Hey, I'm Dhanush
+# 👋 Hey, I'm M Dhanush
 
+### Software Developer | Problem Solver | Lifelong Learner 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub;Hope+you+find+something+interesting+here" />
+**`</> Code. Build. Learn. Repeat. </>`**
 
-  <br>
+</div>
 
+<br>
 
+<table>
+<tr>
+<td width="52%" valign="top">
 
+## ⚡ QUICK FACTS
 
+💻 I'm a **Software Developer**  
+🧠 Always learning and exploring new technologies  
+🛠️ I enjoy building real-world projects  
+🌱 I love turning ideas into solutions  
+🎧 Music keeps me focused while I code  
+☕ I believe in consistency and self-improvement  
+✍️ Clean code, good UI and problem solving excite me  
 
----
+<br>
 
-### 👨‍💻 A Little About Me
+## 🌐 CONNECT WITH ME
 
-🎓 2025 Engineering Graduate  
-🚀 I enjoy turning random ideas into real projects  
-🧠 Curious about technology, AI, data, and how things work  
-🌱 Learning by experimenting rather than just following tutorials  
-✨ Always looking for something new to build or explore  
+📧 **Email:** [mdhanushraju345@gmail.com](mailto:mdhanushraju345@gmail.com)
 
-> *I don't have everything figured out — I'm here to learn, build, and see where it takes me.*
+💼 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)
 
----
+𝕏 **X:** [@Dhanush03_M](https://x.com/Dhanush03_M)
 
-### 🛠️ Things I Use
+</td>
 
-`JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
+<td width="48%" align="center" valign="top">
 
----
+<img src="./assets/dhanush.png" width="430" alt="Dhanush">
 
-### 🚀 What I'm Up To
+</td>
+</tr>
+</table>
 
-**Building → Experimenting → Breaking → Fixing → Learning**
+<br>
 
-Currently exploring new ideas and working on projects that challenge me to learn something different.
+## 🛠️ LANGUAGES & TOOLS
 
----
+<div align="center">
 
-### 🌐 Let's Connect
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,bootstrap,react,nodejs,express,python,mysql,mongodb,git,github,vscode" />
 
-📫 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)
+</div>
 
----
+<br>
 
+## 🚀 WHAT I'M UP TO
 
+> 🚀 Building projects that solve real problems.  
+> 📚 Exploring new technologies and improving my skills.  
+> 🧠 Learning through experimentation and real projects.  
+> 🤝 Open to interesting ideas and collaborations.
+
+<br>
+
+<div align="center">
+
+### `First, solve the problem. Then, write the code.`
 
 **Thanks for stopping by! ✨**
 
