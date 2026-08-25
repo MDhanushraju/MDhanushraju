@@ -37,7 +37,7 @@
 ### 🌐 CONNECT WITH ME
 
 <p>
-<a href="mailto:mdhanushraju345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdhanushraju345@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 <a href="https://www.linkedin.com/in/mdhanush03" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/Dhanush03_M" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 </p>
