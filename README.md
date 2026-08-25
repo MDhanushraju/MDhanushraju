@@ -1,31 +1,46 @@
 <div align="center">
-<div align="center">
 
 # 👋 Hey, I'm Dhanush
 
+<h2>
+  <span style="color:#00D9FF;">W</span><span style="color:#00C9FF;">e</span><span style="color:#00B8FF;">l</span><span style="color:#00A8FF;">c</span><span style="color:#0098FF;">o</span><span style="color:#0088FF;">m</span><span style="color:#0078FF;">e</span>
+  <span style="color:#7B61FF;"> to </span>
+  <span style="color:#9B59FF;">m</span><span style="color:#B14EFF;">y</span>
+  <span style="color:#D946EF;"> GitHub</span> 🚀
+</h2>
+
 ### Just building things & enjoying the process 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Curious+about+everything;Making+ideas+come+to+life;Learning+by+doing;Trying%2C+breaking%2C+fixing;Let's+see+where+this+goes+🚀" />
+<br>
 
-</div>
+🎓 2025 Engineering Graduate  
+🚀 Developer • Builder • Tech Explorer  
+🧠 Curious about AI, Data & Emerging Technology  
+☁️ Exploring Cloud, Software & New Ideas  
 
-🎓 **2025 Engineering Graduate**<br>
-🚀 **Developer • Builder • Tech Explorer**<br>
-🧠 **Curious about AI, Data & Emerging Technology**<br>
-☁️ **Exploring Cloud, Software & New Ideas**
+<br>
 
-I enjoy turning ideas into working projects, solving problems, and learning by building.
+I enjoy turning ideas into working projects, solving problems,<br>
+and learning by building.
 
-### 🛠️ What I Work With
+<br>
+
+## 🛠️ What I Work With
 
 `JavaScript` `React` `Node.js` `Python` `SQL` `MongoDB`
 
-### 🚀 Currently
+<br>
+
+## 🚀 Currently
 
 **Building → Learning → Experimenting → Breaking → Fixing → Improving**
 
-Always curious. Always building.
+*Always curious. Always building.*
 
-### 🌐 Connect With Me
+<br>
 
-📫 **LinkedIn:** [www.linkedin.com/in/mdhanush03](http://www.linkedin.com/in/mdhanush03)
+## 🌐 Connect With Me
+
+📫 **LinkedIn:** [mdhanush03](https://www.linkedin.com/in/mdhanush03)
+
+</div>
