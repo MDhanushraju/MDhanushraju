@@ -8,8 +8,12 @@
 
 ### 🚀 Software Developer | Problem Solver | Lifelong Learner
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=%3C%2F%3E+Code.+Build.+Learn.+Repeat.+%3C%2F%3E;Turning+Ideas+Into+Scalable+Solutions;Clean+Code+%26+Intuitive+UI+Enthusiast)](https://git.io/typing-svg)
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=MDhanushraju&label=PROFILE%20VIEWS&color=0969DA&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 <br>
 
 <!-- Profile Views Counter -->
